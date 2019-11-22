@@ -5,6 +5,7 @@ description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" 
 baseurl: "/liuzhiyue.github.io/"
 url: https://yuppiesyue.github.io/
 logo: '/public/logo.png'
+gravatar: '/public/img/head_top1.jpg'
 
 # Site configurations
 gems:
