@@ -1,7 +1,7 @@
 # Site Info
-title: Codinfox Lanyon
-tagline: 'A Jekyll theme based on Lanyon'
-description: 'A Jekyll theme adapted from <a href="http://lanyon.getpoole.com/" target="_blank">Lanyon</a>. Made by <a href="http://codinfox.github.io" target="_blank">@codinfox</a>.'
+title: Yuppies Yue
+tagline: 'Believe in yourself'
+description: 'A Jekyll theme adapted from <a href="" target="_blank">Dennis</a>. Made by <a href="https://github.com/YuppiesYue" target="_blank">@Dennis</a>.'
 baseurl: "/liuzhiyue.github.io/"
 url: https://yuppiesyue.github.io/
 logo: '/public/logo.png'
@@ -30,7 +30,7 @@ author:
   gravatar:  # md5 hash of your email address
   contact:
     linkedin:  https://www.linkedin.com/feed/
-    github:    https://github.com/codinfox
+    github:    https://github.com/YuppiesYue
     # facebook:  <hide>
     twitter:
     weibo:     https://weibo.com/u/1272340123/home?wvr=5
