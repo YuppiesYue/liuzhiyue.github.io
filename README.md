@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# Codinfox-Lanyon
 
-You can use the [editor on GitHub](https://github.com/YuppiesYue/liuzhiyue.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**If you like this project, PLEASE give it a star.**
 
-### Markdown
+Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
 
-```markdown
-Syntax highlighted code block
+The theme supports: 
 
-# Header 1
-## Header 2
-### Header 3
+1. Theme colors: you can choose your favorite theme color
+2. Changable sidebar locations
+3. Integration of FontAwesome, MathJax, Disqus and Google Analytics
+4. and numerous improvements over original Lanyon
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## License
 
-**Bold** and _Italic_ and `Code` text
+Open sourced under the [MIT license](LICENSE.md).
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/YuppiesYue/liuzhiyue.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<3
