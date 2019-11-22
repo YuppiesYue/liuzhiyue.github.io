@@ -24,16 +24,16 @@ version: 1.0.0
 
 # About/contact
 author:
-  name: Codinfox
+  name: dennis
   description: A passionate <strong>developer and researcher</strong>, learning to be a giant.
-  gravatar: 3c2986ad7ac1f2230ea3596f44563328 # md5 hash of your email address
+  gravatar:  # md5 hash of your email address
   contact:
-    linkedin:  https://www.linkedin.com/in/lizhihao
+    linkedin:  https://www.linkedin.com/feed/
     github:    https://github.com/codinfox
     # facebook:  <hide>
-    twitter:   https://twitter.com/Li_Zhihao
-    weibo:     http://weibo.com/41173780
-    email:     http://www.google.com/recaptcha/mailhide/d?k=01I3lZFiZYng9N3QxYEtsDaQ==&c=31wAnZkuKqcG0ATAqJN8Z3ln5kkYLA9TwkGc-IbygpM=
+    twitter:
+    weibo:     https://weibo.com/u/1272340123/home?wvr=5
+    email:     15810691519@163.com
 
 # Navigation (2nd level links supported)
 nav:
@@ -54,10 +54,10 @@ category_page: '/blog/categories/'
 
 hero:
   image: /public/img/index.jpg
-  caption: Original Artwork &copy; <a href="http://yalestewart.deviantart.com/art/We-Will-Be-Giants-370176475">Yale Stewart</a>
+  caption: Photo In &copy; <a href="https://www.myswitzerland.com/zh-hans/destinations/wengen/">Wengen | Switzerland</a>
 
 # Puglins
 mathjax: true # whether support mathjax
-google_analytics_token: 'UA-00000000-1' # leave blank if you don't want google analytics
-disqus_short_name: 'your_short_name' # leave blank if you don't want disqus
+google_analytics_token: 'UA-15810691519' # leave blank if you don't want google analytics
+disqus_short_name: 'yuppies_yue' # leave blank if you don't want disqus
 
