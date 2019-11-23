@@ -1,4 +1,8 @@
-﻿## Feign简介
+﻿---
+tags: 
+- 分布式微服务
+---
+## Feign简介
 
 ​	Feign 是一个声明web服务客户端，在[RestTemplate](https://blog.csdn.net/javaliuzhiyue/article/details/86741932)的基础上对其封装，由它来帮助我们定义和实现依赖服务接口的定义。Spring Cloud Feign 基于Netflix Feign 实现的，整理Spring Cloud Ribbon 与 Spring Cloud Hystrix，并且实现了声明式的Web服务客户端定义方式。
 

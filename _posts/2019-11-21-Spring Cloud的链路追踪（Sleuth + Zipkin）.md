@@ -1,4 +1,8 @@
-﻿# Spring Cloud的链路追踪（Sleuth + Zipkin）
+﻿---
+tags: 
+- 分布式微服务
+---
+# Spring Cloud的链路追踪（Sleuth + Zipkin）
 
 ​	微服务架构中，系统间调用往往会出现延迟与异常等情况，因此，链路追踪工具已经是必不可少的组件，Spring Cloud中集成了这样的组件，那就是Sleuth + Zipkin。
 

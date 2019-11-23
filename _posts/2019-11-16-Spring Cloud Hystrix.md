@@ -1,4 +1,8 @@
-﻿# Spring Cloud Hystrix
+﻿---
+tags: 
+- 分布式微服务
+---
+# Spring Cloud Hystrix
 
 ## 写在前面
 

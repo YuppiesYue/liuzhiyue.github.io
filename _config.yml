@@ -47,7 +47,7 @@ nav:
   About:
     - '/about/'
   Github Project:
-    - 'http://codinfox.github.io/'
+    - 'https://github.com/YuppiesYue/'
 
 # Where are tags and categories displayed
 tag_page: '/blog/tags/'
